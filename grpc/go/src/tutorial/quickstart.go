@@ -16,7 +16,6 @@ import (
 import (
     "lindt"
     "util"
-    pb "gengo"
 )
 
 func main() {
